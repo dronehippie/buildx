@@ -1,0 +1,6 @@
+title: buildx
+description: Drone plugin provided by Webhippie
+baseurl: /buildx
+
+email: mail@webhippie.de
+theme: jekyll-theme-cayman
